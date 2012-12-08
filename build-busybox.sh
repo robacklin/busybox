@@ -7,4 +7,4 @@ else
 	git clone git://github.com/robacklin/moonshine.git
 fi
 
-sh ./moonshine/scripts/build-busybox.sh
+sh ./moonshine/scripts/build-busybox-ts.sh
